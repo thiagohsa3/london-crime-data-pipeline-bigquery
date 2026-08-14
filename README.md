@@ -53,6 +53,13 @@
 - **Camada READY (`data/ready/`)**: Arquivo perfeitamente tratado, padronizado, sem colunas/linhas nulas, pronto para ingestão pelo Power BI.
 
 ### 5. Dashboard no Power BI
+
+<div align="center">
+  <img src="dash/Dashboard_Seguranca_Publica_Londres-1.png" alt="Preview do Dashboard de Segurança Pública em Londres" width="100%">
+</div>
+
+<br>
+
 - **Painel Executivo de Indicadores (2008 - 2016)**:
   - **Cards Principais (KPIs)**: Total de Crimes (6 Mi), Variação do Período (-0,3%), Crimes Violentos (39,9%), Bairro Crítico (Westminster).
   - **Evolução Temporal de Ocorrências**: Gráfico de linha temporal mostrando a flutuação mensal dos crimes entre 2008 e 2016 (oscilando entre 50 mil e 68 mil crimes/mês).
